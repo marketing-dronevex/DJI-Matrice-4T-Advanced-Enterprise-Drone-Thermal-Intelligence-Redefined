@@ -1,2 +1,4 @@
 # DJI-Matrice-4T-Advanced-Enterprise-Drone-Thermal-Intelligence-Redefined
-https://dronevex.in/product/dji-matrice-4t-advanced-entrprise-drone/
+
+The DJI Matrice 4T Advanced Enterprise Drone combines thermal and optical excellence for mission-critical operations. Its triple-camera system features a 48MP wide-angle, 48MP medium telephoto, and 640×512px thermal camera with f/1.0 aperture for superior low-light performance. AI-powered vehicle/vessel detection, 112x hybrid zoom, laser rangefinder, and Night Scene Mode enable precise identification in challenging conditions. Delivering 49 minutes flight time, RTK centimeter-level positioning, 20km O4 Enterprise transmission, and 5-directional obstacle sensing, it excels in search & rescue, firefighting, inspection, and surveillance missions requiring unmatched thermal clarity and operational reliability.
+Explore more: https://dronevex.in/product/dji-matrice-4t-advanced-entrprise-drone/
